@@ -11,4 +11,4 @@ It's purpose is to send the network configuration status to the Scanner, which a
 ![image](https://user-images.githubusercontent.com/97598628/151036415-a5810ff2-3f21-4ca3-a8d1-7521f6148139.png)
 
 
-Copyright (c) 2016 Barak Aharoni. All Rights Reserved.
+Copyright (c) 2017 Barak Aharoni. All Rights Reserved.
