@@ -9,3 +9,6 @@ This is the defender GUI application, where he can monitor and manage the networ
 This is an agent that need to be installed on every client in the network.
 It's purpose is to send the network configuration status to the Scanner, which analyze if the client system is attacked by ARP Poisoning.
 ![image](https://user-images.githubusercontent.com/97598628/151036415-a5810ff2-3f21-4ca3-a8d1-7521f6148139.png)
+
+
+Copyright (c) 2016 Barak Aharoni. All Rights Reserved.
