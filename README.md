@@ -1,5 +1,5 @@
 # PacketAnalyzer
-Packet Analyzer program with an ARP Poisoning Detection abilities
+Packet Analyzer & ARP Poisoning Detection Product
 
 ## Scanner
 This is the defender GUI application, where he can monitor and manage the network.
